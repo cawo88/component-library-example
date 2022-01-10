@@ -1,2 +1,10 @@
+//
+# Dependencies
 node_modules
+
+# Build
 lib
+
+# Misc
+.env*
+!.env.example
