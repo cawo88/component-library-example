@@ -1,6 +1,6 @@
 {
   "name": "@cawo88/component-library-example",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "Design system component library example powered by Storybook.",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
