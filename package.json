@@ -21,7 +21,8 @@
     "storybook:start": "start-storybook -p 6006",
     "storybook:build": "build-storybook",
     "build": "rollup -c",
-    "release": "auto shipit --base-branch=main"
+    "release": "auto shipit --base-branch=main",
+    "chromatic": "chromatic --exit-zero-on-changes"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.7",
