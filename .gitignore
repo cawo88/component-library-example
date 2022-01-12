@@ -7,3 +7,6 @@ lib
 # Misc
 .env*
 !.env.example
+
+# Log
+yarn-error.log
