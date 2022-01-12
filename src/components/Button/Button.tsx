@@ -21,7 +21,7 @@ export interface ButtonProps {
 }
 
 /**
- * Primary UI component for user interaction
+ * Primitive UI component for user interaction
  */
 const Button = ({ type = 'primitive', backgroundColor, label, ...props }: ButtonProps) => {
   return (
