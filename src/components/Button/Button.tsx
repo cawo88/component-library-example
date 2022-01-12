@@ -3,17 +3,13 @@ import './button.css';
 
 export interface ButtonProps {
   /**
-   * Is this the principal call to action on the page?
-   */
-  primary?: boolean;
-  /**
    * What background color to use
    */
   backgroundColor?: string;
   /**
    * How large should the button be?
    */
-  size?: 'small' | 'medium' | 'large';
+  type?: 'primitive' | 'simple' | 'rounded';
   /**
    * Button contents
    */
@@ -24,16 +20,14 @@ export interface ButtonProps {
   onClick?: () => void;
 }
 
-const TO = 'bl';
 /**
- * Primary UI component for user interaction
+ * Primitive UI component for user interaction
  */
-const Button = ({ primary = false, size = 'medium', backgroundColor, label, ...props }: ButtonProps) => {
-  const mode = primary ? 'storybook-button--primary' : 'storybook-button--secondary';
+const Button = ({ type = 'primitive', backgroundColor, label, ...props }: ButtonProps) => {
   return (
     <button
       type="button"
-      className={['storybook-button', `storybook-button--${size}`, mode].join(' ')}
+      className={['storybook-button', `storybook-button--${type}`].join(' ')}
       style={{ backgroundColor }}
       {...props}
     >
