@@ -9,4 +9,4 @@ lib
 !.env.example
 
 # Log
-yarn-error.log
+yarn-error.Log
