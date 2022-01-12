@@ -1,3 +1,15 @@
+# v0.1.5 (Wed Jan 12 2022)
+
+#### 🐛 Bug Fix
+
+- Style/update button [#1](https://github.com/cawo88/component-library-example/pull/1) ([@cawo88](https://github.com/cawo88))
+
+#### Authors: 1
+
+- Carol Leung ([@cawo88](https://github.com/cawo88))
+
+---
+
 # v0.1.1 (Mon Jan 10 2022)
 
 #### ⚠️ Pushed to `main`
