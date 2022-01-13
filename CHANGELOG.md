@@ -1,3 +1,15 @@
+# v0.1.7 (Thu Jan 13 2022)
+
+#### 🐛 Bug Fix
+
+- Style/change button font family test [#2](https://github.com/cawo88/component-library-example/pull/2) ([@cawo88](https://github.com/cawo88))
+
+#### Authors: 1
+
+- Carol Leung ([@cawo88](https://github.com/cawo88))
+
+---
+
 # v0.1.6 (Thu Jan 13 2022)
 
 #### ⚠️ Pushed to `main`
