@@ -1,3 +1,15 @@
+# v0.1.6 (Thu Jan 13 2022)
+
+#### ⚠️ Pushed to `main`
+
+- chore: upgrade @cawo88/design-token-transformer version ([@cawo88](https://github.com/cawo88))
+
+#### Authors: 1
+
+- Carol Leung ([@cawo88](https://github.com/cawo88))
+
+---
+
 # v0.1.5 (Wed Jan 12 2022)
 
 #### 🐛 Bug Fix
