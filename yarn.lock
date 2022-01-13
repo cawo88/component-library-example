@@ -1218,10 +1218,10 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@cawo88/design-token-transformer@^0.6.6":
-  version "0.6.6"
-  resolved "https://registry.yarnpkg.com/@cawo88/design-token-transformer/-/design-token-transformer-0.6.6.tgz#402dbd1262e21b301c2126a2b776f6c98a94feb8"
-  integrity sha512-7hOtPNR1XllnV2q7jNZWNLz+nMqmreT2tThOfO+3M3Ou/k8mHHGSs0FS+QkaPcfsv2ljNORKEh2TuAkAVs5lxw==
+"@cawo88/design-token-transformer@^0.6.12":
+  version "0.6.12"
+  resolved "https://registry.yarnpkg.com/@cawo88/design-token-transformer/-/design-token-transformer-0.6.12.tgz#1599a2bb70b748220dd05c50846c6998073f52bc"
+  integrity sha512-s0VFB9XJ9rrrlR4br2P0eKhJ2iaZdLVgNBqCp+UiETm6GoH6V8mo8HihVlkc+42lAK0quqQPyo7qrtiZfG6/gw==
   dependencies:
     style-dictionary "^3"
 

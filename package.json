@@ -63,7 +63,7 @@
     "react-dom": "^16.8.0"
   },
   "dependencies": {
-    "@cawo88/design-token-transformer": "^0.6.6",
+    "@cawo88/design-token-transformer": "^0.6.12",
     "autoprefixer": "^10.4.2",
     "postcss-flexbugs-fixes": "^5.0.2"
   }
